@@ -130,7 +130,3 @@ The total distance is the sum of:
 * Edinburgh to Perth
 * Perth to Dundee
 
-(Use the exact distances from the provided graph image in your assignment.)
-
----
-
